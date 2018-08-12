@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ClickBrain GitHub</title>
+    <link href="https://clickbrain.github.io/clickbrain/feed.xml" rel="self" />
+    <link href="https://clickbrain.github.io/clickbrain" />
+    <updated>2018-08-12T16:51:57-04:00</updated>
+    <author>
+        <name>Brad Nickel</name>
+    </author>
+    <id>https://clickbrain.github.io/clickbrain</id>
+
+    <entry>
+        <title>Trying out Publii</title>
+        <author>
+            <name>Brad Nickel</name>
+        </author>
+        <link href="https://clickbrain.github.io/clickbrain/trying-out-publii/"/>
+        <id>https://clickbrain.github.io/clickbrain/trying-out-publii/</id>
+
+        <updated>2018-08-12T16:50:25-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clickbrain.github.io/clickbrain/media/posts/1/" alt="" />
+                    We got some text. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://clickbrain.github.io/clickbrain/media/posts/1/" alt="" />
+                <p>We got some text. </p>
+<ul>
+<li>A bullet is here</li>
+<li>And another one is here</li>
+</ul>
+<p><img src="https://clickbrain.github.io/clickbrain/media/posts/1/photo_2018-08-11_17-40-13.jpg" alt="" width="1280" height="960"></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
